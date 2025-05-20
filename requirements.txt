@@ -1,0 +1,8 @@
+streamlit
+rdkit-pypi
+pandas
+matplotlib
+numpy
+openpyxl
+pubchempy
+
